@@ -29,5 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxmesito&show_icons=true&locale=en" alt="jxmesito" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jxmesito&" alt="jxmesito" /></p>
-
