@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a multitude of projects from building and fixing computers from scratch, working IT, all the way to Software Engineering.**
 
-- 🤝 I’m looking for help with **learning new and powerful upcoming technologies to add to my toolbelt and continue to solve real world problems.**
+- 🤝 I'm seeking assistance in **mastering cutting-edge technologies to enhance my skill set and effectively address real-world challenges.**
 
 - 💬 Ask me about **anything!**
 
