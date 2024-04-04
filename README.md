@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **completing my bachelors degree at Texas A&M San Antonio**
 
-- 🌱 I’m currently learning **SwiftUI, Computer Security, and how to create a dashboard to visualize network data and traffic.**
+- 🌱 I’m currently learning **SwiftUI, Computer Security, and how to create a dashboard to visualize network data and traffic using ArcGIS Online.**
 
 - 👯 I’m looking to collaborate on **a multitude of projects from building and fixing computers from scratch, working IT, all the way to Software Engineering.**
 
