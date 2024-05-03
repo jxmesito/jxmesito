@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmesito&label=Profile%20views&color=0e75b6&style=flat" alt="jxmesito" /> </p>
 
-- 🔭 I just finished my **Bachelor of Science in Computer Science degree at Texas A&M San Antonio**
+- 🔭 I just finished my **Bachelor of Science in Computer Science at Texas A&M San Antonio**
 
 - 🌱 I’m currently learning **SwiftUI, Computer Security, and how to create a dashboard to visualize network data and traffic using ArcGIS Online.**
 
