@@ -5,7 +5,7 @@
 
 - 🔭 I just finished my **Bachelor of Science in Computer Science at Texas A&M San Antonio**
 
-- 🌱 I’m currently learning **SwiftUI, Computer Security, and how to create a dashboard to visualize network data and traffic using ArcGIS Online.**
+- 🌱 I’m currently learning **how to apply what I learned in school to real world applications.**
 
 - 👯 I’m looking to collaborate on **a multitude of projects from building and fixing computers from scratch, working IT, all the way to Software Engineering.**
 
