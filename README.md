@@ -5,7 +5,7 @@
 
 - 🔭 I just finished my **Bachelor of Science in Computer Science at Texas A&M San Antonio**
 
-- 🌱 I’m currently learning **how to apply what I learned in school to real world applications.**
+- 🌱 I’m currently **a Software Engineering Fellow at Headstart.**
 
 - 👯 I’m looking to collaborate on **a multitude of projects from building and fixing computers from scratch, working IT, all the way to Software Engineering.**
 
