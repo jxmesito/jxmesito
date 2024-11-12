@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently **an Intern at Texas Advanced Computing Center.**
 
-- 👯 I’m looking to collaborate on **a multitude of projects from building and fixing computers from scratch, working IT, all the way to Software Engineering.**
-
 - 🤝 I'm seeking assistance in **mastering cutting-edge technologies to enhance my skill set and effectively address real-world challenges.**
 
 - 💬 Ask me about **anything!**
