@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Hernandez</h1>
-<div>
+
+<div align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=Full-Stack/Backend+Python+Developer;AI+and+Machine+Learning+Enthusiast;Coder,+Programmer,+Problem+Solver)](https://git.io/typing-svg)
 </div>
 
