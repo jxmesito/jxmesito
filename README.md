@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Hernandez</h1>
-<h3 align="center">Computer Scientist</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=Full-Stack/Backend+Python+Developer;AI+and+Machine+Learning+Enthusiast;Coder,+Programmer,+Problem+Solver)](https://git.io/typing-svg)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmesito&label=Profile%20views&color=0e75b6&style=flat" alt="jxmesito" /> </p>
 
