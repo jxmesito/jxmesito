@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmesito&label=Profile%20views&color=0e75b6&style=flat" alt="jxmesito" /> </p>
 
-- 🔭 I just finished my **Computer Science degree at Texas A&M San Antonio**
+- 🔭 Completed a **Computer Science degree at Texas A&M San Antonio**
 
-- 🌱 I’m currently **an Intern at Texas Advanced Computing Center.**
+- 🌱 I’m currently **an NLP Intern at Texas Advanced Computing Center.**
 
-- 🤝 I'm seeking assistance in **mastering cutting-edge technologies to enhance my skill set and effectively address real-world challenges.**
+- 🤝 I'm seeking assistance in **finding employment in positions that excite me while mastering cutting-edge technologies to enhance my skill set and effectively address real-world challenges.**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **my current AI/ML project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/jamesmhernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesmhernandez" height="30" width="40" /></a>
