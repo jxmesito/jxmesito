@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmesito&label=Profile%20views&color=0e75b6&style=flat" alt="jxmesito" /> </p>
 
-- 🔭 Completed a **Computer Science degree at Texas A&M San Antonio**
+- 🔭 Completed a **Computer Science degree at Texas A&M**
 
-- 🌱 I’m currently **an NLP Intern at Texas Advanced Computing Center.**
+- 🌱 I’m currently **a Tech Sales Specialist in Boston**
 
 - 🤝 I'm seeking assistance in **finding employment in positions that excite me while mastering cutting-edge technologies to enhance my skill set and effectively address real-world challenges.**
 
