@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently **a Tech Sales Specialist in Boston**
 
-- 🤝 I'm seeking assistance in **finding employment in positions that excite me while mastering cutting-edge technologies to enhance my skill set and effectively address real-world challenges.**
+- 🤝 I'm seeking assistance in **finding employment in positions that challenge me while mastering cutting-edge technologies to enhance my skill set and effectively address real-world challenges.**
 
 - 💬 Ask me about **my current AI/ML project**
 
